@@ -16,7 +16,7 @@ _Keep calm and Azure on!_
 
 
 ## Code 102
-[Code 102 reading notes](https://lindseyshepard.github.io/learning-journal-repo/)
+[Click here - Code 102 reading notes](https://lindseyshepard.github.io/learning-journal-repo/)
 
 
 ## Code 201 - Foundations of Software Development
