@@ -1,4 +1,4 @@
-From the Duckett HTML book:
+[Return Home](https://lindseyshepard.github.io/reading-notes/)
 
 Introduction (pp.2-11)
 ### HTML Chapter 1: “Structure” (pp.12-39)
