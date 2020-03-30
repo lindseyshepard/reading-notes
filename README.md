@@ -10,7 +10,7 @@ _Keep calm and Azure on!_
 
 
 #### Table of Contents
-- TBD
+- [class-01](https://lindseyshepard.github.io/reading-notes/class-01)
 - TBD
 - TBD
 
