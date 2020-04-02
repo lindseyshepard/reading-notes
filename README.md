@@ -12,7 +12,9 @@ _Keep calm and Azure on!_
 #### Table of Contents
 1. [Assingment 1](https://lindseyshepard.github.io/reading-notes/class-01)
 2. [Assingment 2](https://lindseyshepard.github.io/reading-notes/class-02)
-3. [Assingment 3]() 
+2. [Assingment 3](https://lindseyshepard.github.io/reading-notes/class-03)
+2. [Assingment 4](https://lindseyshepard.github.io/reading-notes/class-04)
+3. [Assingment 5]() 
 
 
 ## Code 102
