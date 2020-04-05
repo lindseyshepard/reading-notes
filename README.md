@@ -8,6 +8,13 @@
 _Keep calm and Azure on!_
 
 
+## Code 102
+[Click here - Code 102 reading notes](https://lindseyshepard.github.io/learning-journal-repo/)
+
+
+
+
+## Code 201 - Foundations of Software Development
 
 #### Table of Contents
 1. [Assingment 1](https://lindseyshepard.github.io/reading-notes/class-01)
@@ -19,11 +26,6 @@ _Keep calm and Azure on!_
 3. [Assingment 7]() 
 
 
-## Code 102
-[Click here - Code 102 reading notes](https://lindseyshepard.github.io/learning-journal-repo/)
-
-
-## Code 201 - Foundations of Software Development
 
 ## Code 301 - Intermediate Software Development
 
