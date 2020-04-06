@@ -1,3 +1,6 @@
+# Domain Modeling
+
+
 Article: [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
 
 
@@ -5,7 +8,6 @@ Thoughts:
 
 
 
-# Domain Modeling
 ### From the Duckett HTML book:
 
 #### Chapter 6: “Tables” (pp.126-145)
