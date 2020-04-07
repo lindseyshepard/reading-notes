@@ -5,6 +5,7 @@
 #### Chapter 7: “Forms” (p.144-175)
 
 *Sumarry*
+
 - The <table> element is used to add tables to a web
 page.
 - A table is drawn out row by row. Each row is created
@@ -20,6 +21,7 @@ or column using the rowspan and colspan attributes.
 #### Chapter 14: “Lists, Tables & Forms” (pp.330-357)
 
 *Summary Boxes*
+
 - CSS treats each HTML element as if it has its own box.
 - You can use CSS to control the dimensions of a box.
 - You can also control the borders, margin and padding
@@ -39,6 +41,7 @@ borders and rounded borders.
 #### Chapter 6: “Events” (pp.243-292)
 
 *Summary Events*
+
 - Events are the browser's way of indicating when
 something has happened (such as when a page has
 finished loading or a button has been clicked).
