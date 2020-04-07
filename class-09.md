@@ -17,8 +17,10 @@ header).
 or column using the rowspan and colspan attributes.
 - For long tables you can split the table into a <thead>,
 <tbody>, and <tfoot>.
+- tadah
 
-#### Chapter 14: “Lists, Tables & Forms” (pp.330-357)
+
+####   Chapter 14: “Lists, Tables & Forms” (pp.330-357)
 
 *Summary Boxes*
 
@@ -33,12 +35,12 @@ inline boxes made into block-level boxes.
 - Legibility can be improved by controlling the width of
 boxes containing text and the leading.
 - CSS3 has introduced the ability to create image
-borders and rounded borders.
+borders and rounded borders
 
 
-### From the Duckett JS book:
+###   From the Duckett JS book:
 
-#### Chapter 6: “Events” (pp.243-292)
+####   Chapter 6: “Events” (pp.243-292)
 
 *Summary Events*
 
