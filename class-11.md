@@ -44,3 +44,9 @@ the information you present.
 > <audio> elements have the same HTMLMediaElement functionality available to them, you could easily get this player to work for an <audio> element too
 
 ![pic example of JS](https://i.ytimg.com/vi/tb27HCNfY_4/maxresdefault.jpg)
+
+## Flash!
+
+ > 1990s, Flash has been a very popular tool for creating animations, and later for playing audio and video in websites.
+ >> 2005, a number of factors have meant that fewer websites are written in Flash or even use elements of Flash in their pages.
+ >>> ![history of web](https://assets.reviews.com/uploads/2019/03/28084724/browser-timeline-1-768x1386.jpg)
