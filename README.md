@@ -26,7 +26,8 @@ _Keep calm and Azure on!_
 2. [Assingment 7](https://lindseyshepard.github.io/reading-notes/class-07)
 2. [Assingment 8](https://lindseyshepard.github.io/reading-notes/class-08)
 2. [Assingment 9](https://lindseyshepard.github.io/reading-notes/class-09)
-3. [Assingment 10]() 
+3. [Assingment 10](https://lindseyshepard.github.io/reading-notes/class-10) 
+3. [Assingment 11](https://lindseyshepard.github.io/reading-notes/class-11) 
 
 
 
