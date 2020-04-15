@@ -28,6 +28,10 @@ _Keep calm and Azure on!_
 2. [Assingment 9](https://lindseyshepard.github.io/reading-notes/class-09)
 3. [Assingment 10](https://lindseyshepard.github.io/reading-notes/class-10) 
 3. [Assingment 11](https://lindseyshepard.github.io/reading-notes/class-11) 
+3. [Assingment 12](https://lindseyshepard.github.io/reading-notes/class-12) 
+3. [Assingment 13](https://lindseyshepard.github.io/reading-notes/class-13) 
+3. [Assingment 14](https://lindseyshepard.github.io/reading-notes/class-14) 
+3. [Assingment 15](https://lindseyshepard.github.io/reading-notes/class-15) 
 
 
 
